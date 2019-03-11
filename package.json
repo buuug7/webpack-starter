@@ -7,7 +7,7 @@
     "start": "cross-env webpack-dev-server --open --config webpack.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
-  "author": "buuug7",
+  "author": "buuug7 <youpp@126.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.2.5"
