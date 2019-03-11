@@ -1,14 +1,14 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "webpack-starter",
+  "version": "0.0.1",
+  "description": "A starter kit with webpack",
+  "main": "",
   "scripts": {
     "start": "cross-env webpack-dev-server --open --config webpack.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "buuug7",
+  "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.2.5"
   },
@@ -30,5 +30,13 @@
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1",
     "webpack-merge": "^4.2.1"
+  },
+  "keywords": [
+    "webpack starter",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buuug7/webpack-starter.git"
   }
 }
