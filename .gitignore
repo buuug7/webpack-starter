@@ -1,15 +1,17 @@
 # Created by .ignore support plugin (hsz.mobi)
-### Example user template template
-### Example user template
+### buuug7 template
+### Buuug7 template
 
-# IntelliJ project files
 .idea
-*.iml
+.vscode
+*.sublime-project
+*.sublime-workspace
+.DS_STORE
+*.log*
+*.imi
+.tmp
 out
 gen
 
-
-/.vscode
-/.idea
-/node_modules
-/dist
+node_modules
+dist
