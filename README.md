@@ -8,3 +8,7 @@ Get started with webpack using webpack starter scaffolding.
 - `npm install`
 - `npm run start`
 - `npm run build`
+
+## other
+
+Run `npx browserslist` in project directory to see what browsers was selected by your queries.
