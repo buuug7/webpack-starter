@@ -1,4 +1,3 @@
-import '@babel/polyfill';
 import './app.scss';
 
 let h2 = document.createElement('h2');

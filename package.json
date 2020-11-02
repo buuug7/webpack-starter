@@ -9,9 +9,7 @@
   },
   "author": "buuug7 <youpp@126.com>",
   "license": "MIT",
-  "dependencies": {
-    "@babel/polyfill": "^7.4.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",

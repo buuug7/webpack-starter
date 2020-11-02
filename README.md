@@ -1,6 +1,6 @@
 # webpack starter
 
-webpack starter kit, format code with [prettier](https://github.com/prettier/prettier).
+Get started with webpack using webpack starter scaffolding.
 
 ## Usage
 
