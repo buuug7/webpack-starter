@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/buuug7/webpack-starter)
+
 # webpack starter
 
 Get started with webpack using webpack starter scaffolding.
